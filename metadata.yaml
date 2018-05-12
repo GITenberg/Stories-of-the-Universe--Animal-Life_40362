@@ -1,0 +1,32 @@
+_repo: Stories-of-the-Universe--Animal-Life_40362
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40362-h/images/cover_epub.jpg
+creator:
+  author:
+    agent_name: Lindsay, B.
+    deathdate: 1917
+    gutenberg_agent_id: '40570'
+    url: http://www.gutenberg.org/2009/agents/40570
+description: ''
+gutenberg_issued: '2012-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals'
+- !lcsh 'Zoology'
+- !lcc 'QL'
+tableOfContents: 'The story of animal life -- How animals adapt themselves to circumstances
+  -- Classification: the sorting of the animal kingdom -- The one-celled animals,
+  or Protozoa -- The Coelenterata -- The sponges -- The Vermes or worms -- The Arthropoda:
+  lobsters, spiders, and insects -- The Mollusca, or shell-fish -- The Brachiopoda,
+  or lamp-shells -- The moss-corals, or Polyzoa -- The Echinodermata -- The Chordata
+  -- The Vertebrata -- Man -- How zoologists do their work.'
+title: 'Stories of the Universe: Animal Life'
+url: http://www.gutenberg.org/ebooks/40362
